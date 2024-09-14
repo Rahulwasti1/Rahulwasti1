@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*jm75PhwcXyP4I0gVU_wxRg.gif)
+![MasterHead](https://github.com/user-attachments/assets/1e602523-4c67-4e59-9f34-7cfe0c774be8)
 <h1 align="center">Hi 👋, I'm Rahul Wasti</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
