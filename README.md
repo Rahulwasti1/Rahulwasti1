@@ -28,8 +28,16 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulwasti1&show_icons=true&locale=en&layout=compact" alt="rahulwasti1" /></p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulwasti1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulwasti1&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulwasti1" alt="GitHub Streak" />
+  </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulwasti1&show_icons=true&locale=en" alt="rahulwasti1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulwasti1&" alt="rahulwasti1" /></p>
