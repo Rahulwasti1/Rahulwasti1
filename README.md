@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working as **a Freelancer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Actively learning and exploring **Machine Learning**
 
-- 📫 How to reach me **rahulwasti1@gmail.com**
+- 📫 You can reach me at **rahulwasti1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
