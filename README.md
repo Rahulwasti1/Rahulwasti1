@@ -1,5 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/1e602523-4c67-4e59-9f34-7cfe0c774be8)
-<h1 align="center">Hi 👋, I'm Rahul Wasti</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Wasti!;" />
+</h1>
 <h3 align="center"></h3>
 <img align="right" alt="" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
