@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/wastirahul1" target="blank"><img src="https://img.shields.io/twitter/follow/wastirahul1?logo=twitter&style=for-the-badge" alt="wastirahul1" /></a> </p>
 
-- 🔭 I’m currently working as **a Freelancer**
-
-- 🌱 Actively learning and exploring 
+- 🔭 I’m currently exploring **Product Space**
 
 - 📫 You can reach me at **rahulwasti1@gmail.com**
 
